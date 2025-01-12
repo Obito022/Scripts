@@ -1,3 +1,7 @@
+# Requirements:
+# yt_dlp installed (pip install yt-dlp)
+# Install FFmpeg (sudo apt install ffmpeg) or (sudo pacman -S ffmpeg)
+
 import yt_dlp as youtube_dl
 
 
